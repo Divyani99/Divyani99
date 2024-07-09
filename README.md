@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @Divyani99
-- 🔭 I’m currently working on Android App Development
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: divyanit99@gmail.com
+Hi there! 👋 I'm Divyani Tiwari (@Divyani99)
+🔭 I’m currently working on React Native development.
+🌱 I’m currently learning advanced techniques in React.
+📫 How to reach me: developerdivyanitiwari@gmail.com
